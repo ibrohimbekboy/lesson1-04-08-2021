@@ -1,0 +1,16 @@
+E:\C#\Buriev ibrohim\Lesson1\bin\Debug\net5.0\Lesson1.exe
+E:\C#\Buriev ibrohim\Lesson1\bin\Debug\net5.0\Lesson1.deps.json
+E:\C#\Buriev ibrohim\Lesson1\bin\Debug\net5.0\Lesson1.runtimeconfig.json
+E:\C#\Buriev ibrohim\Lesson1\bin\Debug\net5.0\Lesson1.runtimeconfig.dev.json
+E:\C#\Buriev ibrohim\Lesson1\bin\Debug\net5.0\Lesson1.dll
+E:\C#\Buriev ibrohim\Lesson1\bin\Debug\net5.0\ref\Lesson1.dll
+E:\C#\Buriev ibrohim\Lesson1\bin\Debug\net5.0\Lesson1.pdb
+E:\C#\Buriev ibrohim\Lesson1\obj\Debug\net5.0\Lesson1.csprojAssemblyReference.cache
+E:\C#\Buriev ibrohim\Lesson1\obj\Debug\net5.0\Lesson1.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Buriev ibrohim\Lesson1\obj\Debug\net5.0\Lesson1.AssemblyInfoInputs.cache
+E:\C#\Buriev ibrohim\Lesson1\obj\Debug\net5.0\Lesson1.AssemblyInfo.cs
+E:\C#\Buriev ibrohim\Lesson1\obj\Debug\net5.0\Lesson1.csproj.CoreCompileInputs.cache
+E:\C#\Buriev ibrohim\Lesson1\obj\Debug\net5.0\Lesson1.dll
+E:\C#\Buriev ibrohim\Lesson1\obj\Debug\net5.0\ref\Lesson1.dll
+E:\C#\Buriev ibrohim\Lesson1\obj\Debug\net5.0\Lesson1.pdb
+E:\C#\Buriev ibrohim\Lesson1\obj\Debug\net5.0\Lesson1.genruntimeconfig.cache
